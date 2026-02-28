@@ -75,4 +75,4 @@ def predict_binary(net, tt):
     print("".join(output))
 
 
-predict_binary(net, t5)
+predict_binary(net, t5)  # 0101
