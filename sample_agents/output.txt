@@ -1,0 +1,10 @@
+
+User: What is 2 to the power of 10, and escape velocity of earth?
+
+  [tool call] calculate({'expression': '2 ** 10'})
+  [tool result] 1024
+Agent: Here are your answers:
+
+1. **2 to the power of 10** = **1,024**
+
+2. **Escape velocity of Earth** = **11.186 km/s** (approximately 11.2 km/s or about 25,020 mph). This is the minimum speed an object must reach to escape Earth's gravitational pull without any further propulsion.
